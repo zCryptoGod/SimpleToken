@@ -28,7 +28,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/YOUR_USERNAME/SimpleToken-DApp.git
+git clone https://github.com/zCryptoGod/SimpleToken-DApp.git
 cd SimpleToken-DApp
 Install Dependencies:
 
